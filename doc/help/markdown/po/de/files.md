@@ -33,7 +33,7 @@ Sieben weitere Zeilen folgen:
 
 * `Letters` – Die auf dem Spielfeld angezeigten Buchstaben.
 
-`Locale` – Die für das Spielfeld konfigurierte Locale.
+* `Locale` – Die für das Spielfeld konfigurierte Locale.
 
 * `Minimum` – Minimale Wortlänge.
 
