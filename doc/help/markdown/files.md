@@ -3,10 +3,9 @@
 
 # Files
 
-| :exclamation:  The files used by **Tanglet** are not intended for manual  |
-|                editing. Do not do so unless you know exactly what you are |
-|                doing.                                                     |
-|---------------------------------------------------------------------------|
+> [!WARNING]  
+> The files used by **Tanglet** are not intended for manual editing. Do not do
+> so unless you know exactly what you are doing.
 
 ## User configuration file
 
@@ -23,14 +22,14 @@ A game you save using **Game** ➠ **Save…** is a text file, compressed with
 `gzip`. If you are curious enough, you can unpack such a file using the
 following command:
 
-```
+```console
 $ rename tanglet gz _savedgame_.tanglet && gunzip _savedgame_.gz
 ```
 
 ### File structure
 
 The first four lines after `[Game]` mirror the
-[settings of the board language](configuration.md).
+[settings of the board language](./configuration.md).
 
 Seven more lines follow:
 
