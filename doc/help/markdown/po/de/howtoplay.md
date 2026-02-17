@@ -1,17 +1,16 @@
 <!-- SPDX-FileCopyrightText: 2026 Graeme Gott <graeme@gottcode.org> -->
-<!--SPDX-License-Identifier: CC-BY-SA-4.0 -->
 
 # Das Spiel spielen
 
 ## Steuerung mit Maus und Tastatur
 
 
-| Action         | Using the mouse                           | Using the keyboard                            |
-|----------------|-------------------------------------------|-----------------------------------------------|
-| Select a word  | Click on the letters of a word.           | Type the letters of a word.                   |
-| Make a guess   | Click on the last selected letter.        | Press <kbd>Enter</kbd>                        |
-| Erase letters  | Click on an earlier selected letter.      | Press <kbd>Backspace</kbd>.                   |
-| Clear the word | Click twice on the first selected letter. | Press <kbd>Ctrl</kbd> + <kbd>Backspace</kbd>. |
+| Aktion             | Mit der Maus                                         | Mit der Tastatur                                  |
+|--------------------|------------------------------------------------------|---------------------------------------------------|
+| Wort wählen        | Auf die Buchstaben eines Worts klicken.              | Buchstaben eines Wortes eingeben.                 |
+| Versuchen          | Auf den zuletzt gewählten Buchstaben klicken.        | <kbd>Eingabetaste</kbd> drücken.                  |
+| Buchstaben löschen | Auf den zuvor gewählten Buchstaben klicken.          | <kbd>Rückschritt</kbd> drücken.                   |
+| Wort löschen       | Doppelt auf den zuerst gewählten Buchstaben klicken. | <kbd>Strg</kbd> + <kbd>Rückschritt</kbd> drücken. |
 
 ## Ein Wort aktivieren
 
@@ -46,15 +45,7 @@ nicht erreichbar ist oder gar nicht auf dem Spielfeld existiert, wird das
 gesamte Spielfeld ausgegraut und das Feld über der Wortliste mit rotem
 Hintergrund angezeigt.
 
-<!-- I remember, there was such an icon in previous versions... -->
-<!-- When you hover the mouse pointer over one of the accepted words in
-       the list, a clickable book icon will be displayed, which leads you to
-       the appropriate entry in Wiktionary. -->
-When the game ends and if you have achieved a place among the top ten in the
-chosen game mode, the **High Scores** list appears. Under **Name**, your name
-(taken from your user account) is already entered, but highlighted. If you like
-to use a different name, or anyone else has played the game, you can change the
-name directly, or leave it as-is. In either case, finally click on **Close**.
+Wenn das Spiel beendet ist und Sie in dem gewählten Spielmodus unter den Top Ten waren, erscheint die **Highscores**-Liste. Unter **Name** ist Ihr Name (aus Ihrem Benutzerkonto) bereits eingetragen und hervorgehoben. Falls Sie einen anderen Namen verwenden möchten oder jemand anderes das Spiel gespielt hat, können Sie den Namen direkt ändern oder ihn unverändert lassen. Klicken Sie anschließend in jedem Fall auf **Schließen**.
 
 Sie können das Spiel jederzeit schließen. Wenn Sie das Spiel schließen,
 bevor es beendet wurde, wird beim nächsten Start von **Tanglet** dasselbe

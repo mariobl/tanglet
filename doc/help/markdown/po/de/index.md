@@ -1,5 +1,4 @@
-<!-- SPDX-FileCopyrightText: 2026 Graeme Gott <graeme@gottcode.org> --> 
-<!--SPDX-License-Identifier: CC-BY-SA-4.0 -->
+<!-- SPDX-FileCopyrightText: 2026 Graeme Gott <graeme@gottcode.org> -->
 
 # Benutzerhandbuch für Tanglet
 
@@ -35,16 +34,18 @@ Anschließend können Sie zwischen verschiedenen Spielmodi wählen:
 
 Die folgenden Modi sind verfügbar:
 
-* **Allotment** – Game ends after 30 guesses.
-* **Classic** – Counts down from 3 minutes.
-* **Discipline** – Counts down from 30 seconds and increases on correct
-  guesses.
-* **Refill** – Counts down from 30 seconds and refills on correct guesses.
-* **Stamina** – Counts down from 45 seconds and pauses on correct guesses.
-* **Strikeout** – Game ends after 3 incorrect guesses.
-* **Tanglet** – Counts down from 30 seconds and increases or decreases on
-  guesses.
-* **Unlimited** – Game ends when all words are found.
+* **Festanzahl** – Spiel endet nach 30 Versuchen.
+* **Klassisch** – Zählt von 3 Minuten abwärts.
+* **Disziplin** – Zählt von 30 Sekunden abwärts und erhöht bei richtigen
+  Versuchen.
+* **Zurücksetzen** – Zählt von 30 Sekunden abwärts und setzt bei richtigen
+  Versuchen zurück.
+* **Ausdauer** – Zählt von 45 Sekunden abwärts und pausiert bei richtigen
+  Versuchen.
+* **Verlieren** – Spiel endet nach 3 falschen Versuchen.
+* **Tanglet** – Zählt von 30 Sekunden abwärts und erhöht bei richtigen
+  Versuchen.
+* **Unbegrenzt** – Spiel endet, wenn alle Wörter gefunden sind.
 
 [Das Spiel spielen](./howtoplay.md)
 

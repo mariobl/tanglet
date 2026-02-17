@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2026-02-17 12:52+0100\n"
-"PO-Revision-Date: 2026-02-17 12:54+0100\n"
+"POT-Creation-Date: 2026-02-17 13:40+0100\n"
+"PO-Revision-Date: 2026-02-17 14:02+0100\n"
 "Last-Translator: Mario Blättermann <mario.blaettermann@gmail.com>\n"
 "Language-Team: German <debian-l10n-german@lists.debian.org>\n"
 "Language: de\n"
@@ -14,22 +14,19 @@ msgstr ""
 "X-Generator: Lokalize 25.12.2\n"
 
 #. type: Plain text
-#: ../configuration.md:3 ../contributing.md:3 ../credits.md:3 ../files.md:3
-#: ../howtoplay.md:3 ../index.md:3 ../menubar.md:3
-msgid ""
-"<!-- SPDX-FileCopyrightText: 2026 Graeme Gott <graeme@gottcode.org> --> <!-- "
-"SPDX-License-Identifier: CC-BY-SA-4.0 -->"
+#: ../configuration.md:2 ../contributing.md:2 ../credits.md:2 ../files.md:2
+#: ../howtoplay.md:2 ../index.md:2 ../menubar.md:2
+msgid "<!-- SPDX-FileCopyrightText: 2026 Graeme Gott <graeme@gottcode.org> -->"
 msgstr ""
-"<!-- SPDX-FileCopyrightText: 2026 Graeme Gott <graeme@gottcode.org> --> <!-- "
-"SPDX-License-Identifier: CC-BY-SA-4.0 -->"
+"<!-- SPDX-FileCopyrightText: 2026 Graeme Gott <graeme@gottcode.org> -->"
 
 #. type: Plain text
-#: ../configuration.md:5
+#: ../configuration.md:4
 msgid "# Configuration"
 msgstr "# Konfiguration"
 
 #. type: Plain text
-#: ../configuration.md:8
+#: ../configuration.md:7
 msgid ""
 "To configure **Tanglet**, open the **Settings** menu. You see the following "
 "entries:"
@@ -38,7 +35,7 @@ msgstr ""
 "folgenden Einträge werden angezeigt:"
 
 #. type: Plain text
-#: ../configuration.md:11
+#: ../configuration.md:10
 #, no-wrap
 msgid ""
 "* **Show Maximum Score** – you can choose between three options for the status\n"
@@ -46,7 +43,7 @@ msgid ""
 msgstr "* **Maximale Punktzehl zeigen** – Sie können aus drei Optionen für die Statuszeile am unteren Rand es Fensters wählen:  \n"
 
 #. type: Plain text
-#: ../configuration.md:13
+#: ../configuration.md:12
 msgid ""
 "![Listed maximum scores](./figures/tanglet_toggle_maximum_score_display.png)"
 msgstr ""
@@ -54,7 +51,7 @@ msgstr ""
 "tanglet_toggle_maximum_score_display.png)"
 
 #. type: Bullet: '   * '
-#: ../configuration.md:15
+#: ../configuration.md:14
 msgid ""
 "**Never** – You see word lengths and the count of words found for each "
 "length."
@@ -63,7 +60,7 @@ msgstr ""
 "jede Länge gefunden haben."
 
 #. type: Plain text
-#: ../configuration.md:18
+#: ../configuration.md:17
 #, no-wrap
 msgid ""
 "   * **End Of Game** – At the end of the game, you see the contained words per\n"
@@ -71,7 +68,7 @@ msgid ""
 msgstr "**Spielende** – Am Ende des Spiels sehen Sie die pro Wortlänge enthaltenen Wörter und die Anzahl der Wörter, die Soie gefunden haben.\n"
 
 #. type: Bullet: '   * '
-#: ../configuration.md:20
+#: ../configuration.md:19
 msgid ""
 "**Always**: The behavior described for **End Of Game** is always visible."
 msgstr ""
@@ -79,7 +76,7 @@ msgstr ""
 "sichtbar."
 
 #. type: Plain text
-#: ../configuration.md:23
+#: ../configuration.md:22
 msgid ""
 "The visibility of the word count status bar can be toggled with **Show Word "
 "Counts**."
@@ -88,12 +85,12 @@ msgstr ""
 "zeigen** ein- oder ausgeschaltet werden."
 
 #. type: Plain text
-#: ../configuration.md:25
+#: ../configuration.md:24
 msgid "![Word count status](./figures/tanglet_word_counts.png)"
 msgstr "![Wortanzahl-Statuszeile](./figures/tanglet_word_counts.png)"
 
 #. type: Plain text
-#: ../configuration.md:29
+#: ../configuration.md:28
 #, no-wrap
 msgid ""
 "* **Show Missed Words** – In addition to the list of found words on the left, an\n"
@@ -102,7 +99,7 @@ msgid ""
 msgstr "**Übersehene Wörter zeigen** – Zusätzlich zur Liste der gefundenen Wörter in der Seitenleiste wird ein Reiter namens **Übersehen** angezeigt. Dieser Reiter ist bis zum Ende des Spiels inaktiv.\n"
 
 #. type: Plain text
-#: ../configuration.md:33
+#: ../configuration.md:32
 #, no-wrap
 msgid ""
 "* **Board Language** – You can change the board language by clicking on the\n"
@@ -111,12 +108,12 @@ msgid ""
 msgstr "**Spielfeldsprache** – Sie können die Spielfeldsprache wählen, indem Sie auf die Auswahlliste klicken und aus den verfügbaren Sprachen wählen. Außerdem haben Sie einige zusätzliche Optionen:\n"
 
 #. type: Plain text
-#: ../configuration.md:35
+#: ../configuration.md:34
 msgid "![Language settings](./figures/tanglet_board_language.png)"
 msgstr "![Spracheinstellungen](./figures/tanglet_board_language.png)"
 
 #. type: Plain text
-#: ../configuration.md:43
+#: ../configuration.md:42
 msgid ""
 "You can change the file paths to **Dice**, **Word List** and **Dictionary** "
 "by entering the file paths manually or click on the respective **Choose…** "
@@ -136,7 +133,7 @@ msgstr ""
 "von **Tanglet** angewendet."
 
 #. type: Plain text
-#: ../configuration.md:48
+#: ../configuration.md:47
 msgid ""
 "Under **Application Language**, you can change the language of the user "
 "interface. The settings window opens with the button **System language**.  "
@@ -150,7 +147,7 @@ msgstr ""
 "wirksam."
 
 #. type: Plain text
-#: ../configuration.md:60
+#: ../configuration.md:59
 msgid ""
 "<!-- This is my workaround for taking the English screenshots --> > [!NOTE] "
 "> Not all translated captions come from **Tanglet** itself. Because some of "
@@ -167,18 +164,18 @@ msgstr ""
 "Anwendung mit einer abweichenden Spracheinstellung geöffnet werden kann:"
 
 #. type: Plain text
-#: ../configuration.md:61 ../contributing.md:41 ../credits.md:17 ../files.md:56
-#: ../howtoplay.md:80 ../menubar.md:58
+#: ../configuration.md:60 ../contributing.md:40 ../credits.md:16 ../files.md:55
+#: ../howtoplay.md:79 ../menubar.md:57
 msgid "[Back to the index page](./index.md)"
 msgstr "[Zurück zur Indexseite](./index.md)"
 
 #. type: Plain text
-#: ../contributing.md:5
+#: ../contributing.md:4
 msgid "# Contributing"
 msgstr "# Mitwirken"
 
 #. type: Plain text
-#: ../contributing.md:8
+#: ../contributing.md:7
 msgid ""
 "The **Tanglet** development is maintained in a [Github repository](https://"
 "github.com/gottcode/tanglet/)."
@@ -187,12 +184,12 @@ msgstr ""
 "github.com/gottcode/tanglet) verwaltet."
 
 #. type: Plain text
-#: ../contributing.md:10
+#: ../contributing.md:9
 msgid "## Contributing with code"
 msgstr "## Code beitragen"
 
 #. type: Plain text
-#: ../contributing.md:13
+#: ../contributing.md:12
 msgid ""
 "If you have a Github account, feel free to fork the project, apply and "
 "commit your changes and open a Pull Request. This is the preferred way."
@@ -202,12 +199,12 @@ msgstr ""
 "öffnen. Dies ist die empfohlene Vorgehensweise."
 
 #. type: Plain text
-#: ../contributing.md:15
+#: ../contributing.md:14
 msgid "## Issue tickets"
 msgstr "## Fehĺerbericht-Tickets"
 
 #. type: Plain text
-#: ../contributing.md:23
+#: ../contributing.md:22
 msgid ""
 "You found a bug, like to request a new feature or have any other suggestion? "
 "Please got to [our issue tracker](https://github.com/gottcode/tanglet/"
@@ -228,12 +225,12 @@ msgstr ""
 "können Übersetzungen unvollständig sein."
 
 #. type: Plain text
-#: ../contributing.md:25
+#: ../contributing.md:24
 msgid "## Translations"
 msgstr "## Übersetzungen"
 
 #. type: Plain text
-#: ../contributing.md:31
+#: ../contributing.md:30
 #, no-wrap
 msgid ""
 "**Tanglet** is available in various languages. The appropriate `.ts` and `.po`\n"
@@ -244,7 +241,7 @@ msgid ""
 msgstr "**Tanglet** ist in verschiedenen Sprachen verfügbar. Die entsprechenden `.ts`- und `.po`-Dateien werden bei [Transifex](https://explore.transifex.com/gottcode/tanglet/) verwaltet. Wenn Sie an den Übersetzungen mitwirken möchten, registrieren Sie sich dort oder melden Sie sich an, treten Sie einem Übersetzungsteam bei oder erstellen Sie bei Bedarf ein neues für Ihre gewünschte Sprache.\n"
 
 #. type: Plain text
-#: ../contributing.md:35
+#: ../contributing.md:34
 msgid ""
 "For the translations itself, Transifex offers a web-based editor. If you "
 "prefer to work on the files directly, you can also download and edit them "
@@ -255,7 +252,7 @@ msgstr ""
 "herunterladen und lokal mit Ihrem bevorzugten Programm bearbeiten."
 
 #. type: Plain text
-#: ../contributing.md:40
+#: ../contributing.md:39
 msgid ""
 "Although **Tanglet** is not part of any integrated desktop environment, "
 "please always try to follow the basic rules of well-known translation teams "
@@ -268,18 +265,18 @@ msgstr ""
 "teams-list.php)- oder [GNOME](https://l10n.gnome.org/teams/)-Teams."
 
 #. type: Plain text
-#: ../credits.md:5
+#: ../credits.md:4
 msgid "# Credits and License"
 msgstr "# Danksagungen und Lizenz"
 
 #. type: Plain text
-#: ../credits.md:7
+#: ../credits.md:6
 msgid "Program copyright 2009-2026 [Graeme Gott](mailto:graeme@gottcode.org)"
 msgstr ""
 "Copyright des Programms 2009-2026 [Graeme Gott](mailto:graeme@gottcode.org)"
 
 #. type: Plain text
-#: ../credits.md:10
+#: ../credits.md:9
 msgid ""
 "User manual written by [Graeme Gott](mailto:graeme@gottcode.org) and [Mario "
 "Blättermann](mailto:mario.blaettermann@gmail.com)"
@@ -288,7 +285,7 @@ msgstr ""
 "[Mario Blättermann](mailto:mario.blaettermann@gmail.com) geschrieben."
 
 #. type: Plain text
-#: ../credits.md:13
+#: ../credits.md:12
 msgid ""
 "For a list of contributors, see [here](https://github.com/gottcode/tanglet/"
 "graphs/contributors)."
@@ -297,7 +294,7 @@ msgstr ""
 "tanglet/graphs/contributors)."
 
 #. type: Plain text
-#: ../credits.md:16
+#: ../credits.md:15
 msgid ""
 "This program is licensed under the terms of the [GNU General Public License]"
 "(https://www.gnu.org/licenses/gpl.html)."
@@ -306,12 +303,12 @@ msgstr ""
 "(https://www.gnu.org/licenses/gpl.html) lizenziert."
 
 #. type: Plain text
-#: ../files.md:5
+#: ../files.md:4
 msgid "# Files"
 msgstr "# Dateien"
 
 #. type: Plain text
-#: ../files.md:9
+#: ../files.md:8
 msgid ""
 "> [!WARNING] > The files used by **Tanglet** are not intended for manual "
 "editing. Do not do > so unless you know exactly what you are doing."
@@ -321,12 +318,12 @@ msgstr ""
 "denn, Sie wissen genau, was Sie tun."
 
 #. type: Plain text
-#: ../files.md:11
+#: ../files.md:10
 msgid "## User configuration file"
 msgstr "## Benutzerkonfigurationsdatei"
 
 #. type: Plain text
-#: ../files.md:18
+#: ../files.md:17
 msgid ""
 "The user configuration is located in the *~/.config/Gottcode/Tanglet.conf* "
 "file. The folder *~/.config/Gottcode/* is shared with other [Gottcode]"
@@ -343,12 +340,12 @@ msgstr ""
 "könnten Ihre Spielstände verloren gehen. Beachten Sie dies bitte."
 
 #. type: Plain text
-#: ../files.md:20
+#: ../files.md:19
 msgid "## Saved Games"
 msgstr "## Gespeicherte Spiele"
 
 #. type: Plain text
-#: ../files.md:24
+#: ../files.md:23
 msgid ""
 "A game you save using **Game** ➠ **Save…** is a text file, compressed with "
 "`gzip`. If you are curious enough, you can unpack such a file using the "
@@ -359,19 +356,19 @@ msgstr ""
 "eine solche Datei mit folgendem Befehl entpacken:"
 
 #. type: Plain text
-#: ../files.md:28
+#: ../files.md:27
 msgid ""
 "```console $ rename tanglet gz savedgame.tanglet && gunzip savedgame.gz ```"
 msgstr ""
 "```console $ rename tanglet gz savedgame.tanglet && gunzip savedgame.gz ```"
 
 #. type: Plain text
-#: ../files.md:31
+#: ../files.md:30
 msgid "<a name=\"file_structure\"></a> ### File structure"
 msgstr "<a name=\"file_structure\"></a> ### Dateistruktur"
 
 #. type: Plain text
-#: ../files.md:34
+#: ../files.md:33
 msgid ""
 "The first four lines after `[Game]` mirror the [settings of the board "
 "language](./configuration.md)."
@@ -380,49 +377,49 @@ msgstr ""
 "Spielfeldsprache](./configuration.md) wider."
 
 #. type: Plain text
-#: ../files.md:36
+#: ../files.md:35
 msgid "Seven more lines follow:"
 msgstr "Sieben weitere Zeilen folgen:"
 
 #. type: Bullet: '* '
-#: ../files.md:38
+#: ../files.md:37
 msgid "`Letters` – The letters shown in the board."
 msgstr "`Letters` – Die auf dem Spielfeld angezeigten Buchstaben."
 
 #. type: Plain text
-#: ../files.md:41
+#: ../files.md:40
 msgid ""
 "<!-- Really…? Or the application language settings? --> * `Locale` – The "
 "configured Locale for the board."
 msgstr "`Locale` – Die für das Spielfeld konfigurierte Locale."
 
 #. type: Bullet: '* '
-#: ../files.md:43
+#: ../files.md:42
 msgid "`Minimum` – Minimum word length."
 msgstr "`Minimum` – Minimale Wortlänge."
 
 #. type: Bullet: '* '
-#: ../files.md:45
+#: ../files.md:44
 msgid "`Size` – Size of the board."
 msgstr "`Size` – Größe des Spielfelds."
 
 #. type: Bullet: '* '
-#: ../files.md:47
+#: ../files.md:46
 msgid "`TimerMode` – Timer mode, depending on the initially chosen game."
 msgstr "`TimerMode` – Timer-Modus, abhängig vom gewählten Spiel."
 
 #. type: Plain text
-#: ../files.md:50
+#: ../files.md:49
 msgid "<!-- What is \"Version\" here? --> * `Version` – TBD."
 msgstr "* `Version` – TBD."
 
 #. type: Bullet: '* '
-#: ../files.md:52
+#: ../files.md:51
 msgid "`Words` – The used wordlist"
 msgstr "`Words` – Die verwendete Wortliste."
 
 #. type: Plain text
-#: ../files.md:55
+#: ../files.md:54
 msgid ""
 "We don't recommend to change anything here. It can easily happen that the "
 "file becomes unusable."
@@ -431,17 +428,17 @@ msgstr ""
 "Datei unbrauchbar wird."
 
 #. type: Plain text
-#: ../howtoplay.md:5
+#: ../howtoplay.md:4
 msgid "# How to Play"
 msgstr "# Das Spiel spielen"
 
 #. type: Plain text
-#: ../howtoplay.md:7
+#: ../howtoplay.md:6
 msgid "## Mouse and Keyboard Controls"
 msgstr "## Steuerung mit Maus und Tastatur"
 
 #. type: Plain text
-#: ../howtoplay.md:15
+#: ../howtoplay.md:14
 #, no-wrap
 msgid ""
 "| Action         | Using the mouse                           | Using the keyboard                            |\n"
@@ -451,14 +448,20 @@ msgid ""
 "| Erase letters  | Click on an earlier selected letter.      | Press <kbd>Backspace</kbd>.                   |\n"
 "| Clear the word | Click twice on the first selected letter. | Press <kbd>Ctrl</kbd> + <kbd>Backspace</kbd>. |\n"
 msgstr ""
+"| Aktion             | Mit der Maus                                         | Mit der Tastatur                                  |\n"
+"|--------------------|------------------------------------------------------|---------------------------------------------------|\n"
+"| Wort wählen        | Auf die Buchstaben eines Worts klicken.              | Buchstaben eines Wortes eingeben.                 |\n"
+"| Versuchen          | Auf den zuletzt gewählten Buchstaben klicken.        | <kbd>Eingabetaste</kbd> drücken.                  |\n"
+"| Buchstaben löschen | Auf den zuvor gewählten Buchstaben klicken.          | <kbd>Rückschritt</kbd> drücken.                   |\n"
+"| Wort löschen       | Doppelt auf den zuerst gewählten Buchstaben klicken. | <kbd>Strg</kbd> + <kbd>Rückschritt</kbd> drücken. |\n"
 
 #. type: Plain text
-#: ../howtoplay.md:17
+#: ../howtoplay.md:16
 msgid "## Activating a Word"
 msgstr "## Ein Wort aktivieren"
 
 #. type: Plain text
-#: ../howtoplay.md:21
+#: ../howtoplay.md:20
 msgid ""
 "If you found a word, click on te first letter. Now you will see around this "
 "field the letters you can choose from to continue the word; all other fields "
@@ -469,7 +472,7 @@ msgstr ""
 "fortsetzen können; alle anderen Felder sind ausgegraut."
 
 #. type: Plain text
-#: ../howtoplay.md:24
+#: ../howtoplay.md:23
 msgid ""
 "While entering the letters, the word will be displayed above the word list "
 "on the left."
@@ -478,13 +481,13 @@ msgstr ""
 "der linken Seite angezeigt."
 
 #. type: Plain text
-#: ../howtoplay.md:26
+#: ../howtoplay.md:25
 msgid "![The board with an activated word](./figures/tanglet_board.png)"
 msgstr ""
 "![Das Spielfeld mit einem aktivierten Wort](./figures/tanglet_board.png)"
 
 #. type: Plain text
-#: ../howtoplay.md:31
+#: ../howtoplay.md:30
 msgid ""
 "Once you found a word you think it's valid, double-click on the last "
 "activated letter or press <kbd>Return</kbd>. If **Tanglet** accepts it, it "
@@ -496,7 +499,7 @@ msgstr ""
 "in der Liste **Gefunden** links neben dem Spielfeld angezeigt."
 
 #. type: Plain text
-#: ../howtoplay.md:34
+#: ../howtoplay.md:33
 msgid ""
 "In case you find the word *again* (also in a different letter sequence on "
 "the board), it will be highlighted in this list."
@@ -505,7 +508,7 @@ msgstr ""
 "Spielfeld) finden, wird es in dieser Liste hervorgehoben."
 
 #. type: Plain text
-#: ../howtoplay.md:39
+#: ../howtoplay.md:38
 msgid ""
 "If the word can be extended with one or more letters to form a new one, "
 "click on it to display it again on the board, and you can click on the white "
@@ -520,7 +523,7 @@ msgstr ""
 "Buchstaben!"
 
 #. type: Plain text
-#: ../howtoplay.md:44
+#: ../howtoplay.md:43
 msgid ""
 "If you activate letters using the keyboard or you accidentally press a key "
 "with a letter which is not reachable from the current word end, or even "
@@ -534,9 +537,8 @@ msgstr ""
 "Hintergrund angezeigt."
 
 #. type: Plain text
-#: ../howtoplay.md:54
-#, fuzzy, no-wrap
-#| msgid "When the game ends and if you have achieved a place among the top ten in the chosen game mode, the <gui>High Scores</gui> list appears. Under <gui>Name</gui>, your name (taken from your user account) is already entered, but highlighted. If you like to use a different name, or anyone else has played the game, you can change the name directly, or leave it as-is. In either case, finally click on <gui>Close</gui>."
+#: ../howtoplay.md:53
+#, no-wrap
 msgid ""
 "<!-- I remember, there was such an icon in previous versions... -->\n"
 "<!-- When you hover the mouse pointer over one of the accepted words in\n"
@@ -547,10 +549,10 @@ msgid ""
 "(taken from your user account) is already entered, but highlighted. If you like\n"
 "to use a different name, or anyone else has played the game, you can change the\n"
 "name directly, or leave it as-is. In either case, finally click on **Close**.\n"
-msgstr "Wenn das Spiel beendet ist und Sie in dem gewählten Spielmodus unter den Top Ten waren, erscheint die <gui>Highscores</gui>-Liste. Unter <gui>Name</gui> ist Ihr Name (aus Ihrem Benutzerkonto) bereits eingetragen und hervorgehoben. Falls Sie einen anderen Namen verwenden möchten oder jemand anderes das Spiel gespielt hat, können Sie den Namen direkt ändern oder ihn unverändert lassen. Klicken Sie anschließend in jedem Fall auf <gui>Schließen</gui>."
+msgstr "Wenn das Spiel beendet ist und Sie in dem gewählten Spielmodus unter den Top Ten waren, erscheint die **Highscores**-Liste. Unter **Name** ist Ihr Name (aus Ihrem Benutzerkonto) bereits eingetragen und hervorgehoben. Falls Sie einen anderen Namen verwenden möchten oder jemand anderes das Spiel gespielt hat, können Sie den Namen direkt ändern oder ihn unverändert lassen. Klicken Sie anschließend in jedem Fall auf **Schließen**.\n"
 
 #. type: Plain text
-#: ../howtoplay.md:58
+#: ../howtoplay.md:57
 msgid ""
 "You can close the game at any time. When closing the game without it has "
 "ended, the same game at the same score will be opened when **Tanglet** "
@@ -561,12 +563,12 @@ msgstr ""
 "Spiel mit demselben Spielstand erneut geöffnet."
 
 #. type: Plain text
-#: ../howtoplay.md:60
+#: ../howtoplay.md:59
 msgid "## Show missed words"
 msgstr "## Übersehene Wörter anzeigen"
 
 #. type: Plain text
-#: ../howtoplay.md:63
+#: ../howtoplay.md:62
 msgid ""
 "The wordlist has a tab **Missed**, which is inactive during the game play. "
 "When the game is over, you can click on it to see the words which you "
@@ -577,12 +579,12 @@ msgstr ""
 "Sie nicht gefunden haben."
 
 #. type: Plain text
-#: ../howtoplay.md:65
+#: ../howtoplay.md:64
 msgid "## Show high scores"
 msgstr "## Spielstände anzeigen"
 
 #. type: Plain text
-#: ../howtoplay.md:68
+#: ../howtoplay.md:67
 msgid ""
 "Choose **Game** ➠ **Show High Scores** to open the High Scores list. To "
 "switch between the various game modes, use the vertical tab bar on the left."
@@ -592,12 +594,12 @@ msgstr ""
 "vertikale Reiterleiste links."
 
 #. type: Plain text
-#: ../howtoplay.md:70
+#: ../howtoplay.md:69
 msgid "## Export or import a game"
 msgstr "## Ein Spiel exportieren oder importieren"
 
 #. type: Plain text
-#: ../howtoplay.md:76
+#: ../howtoplay.md:75
 msgid ""
 "To export a game, choose **Game** ➠ **Share…**. A file saver dialog opens "
 "where you can type a file name and specify a location where the file will be "
@@ -613,7 +615,7 @@ msgstr ""
 "files.md#file_structure)."
 
 #. type: Plain text
-#: ../howtoplay.md:79
+#: ../howtoplay.md:78
 msgid ""
 "Vice versa, you can choose **Game** ➠ **Choose…**. A file chooser dialog "
 "opens where you can navigate to the desired file and open it."
@@ -623,12 +625,12 @@ msgstr ""
 "können."
 
 #. type: Plain text
-#: ../index.md:5
+#: ../index.md:4
 msgid "# Tanglet user manual"
 msgstr "# Benutzerhandbuch für Tanglet"
 
 #. type: Plain text
-#: ../index.md:11
+#: ../index.md:10
 #, no-wrap
 msgid ""
 "**Tanglet** is a single player word finding game based on\n"
@@ -639,7 +641,7 @@ msgid ""
 msgstr "**Tanglet** ist ein Wortsuchspiel für Einzelspieler, das auf [Boggle](https://de.wikipedia.org/wiki/Boggle) basiert. Ziel des Spiels ist es, innerhalb der vorgegebenen Zeit so viele Wörter wie möglich aufzulisten. Es gibt verschiedene Zeitmodi, die festlegen, wie viel Zeit man zu Beginn hat und ob man zusätzliche Zeit erhält, wenn man ein Wort findet.\n"
 
 #. type: Plain text
-#: ../index.md:17
+#: ../index.md:16
 msgid ""
 "You can join letters horizontally, vertically, or diagonally in any "
 "direction to make a word, so as long as the letters are next to each other "
@@ -655,12 +657,12 @@ msgstr ""
 "haben."
 
 #. type: Plain text
-#: ../index.md:19
+#: ../index.md:18
 msgid "## Starting the game"
 msgstr "## Das Spiel starten"
 
 #. type: Plain text
-#: ../index.md:24
+#: ../index.md:23
 msgid ""
 "You can start the game using the application menu of your desktop "
 "environment.  Open the application menu and choose **Games** ➠ **Tanglet** "
@@ -669,7 +671,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: ../index.md:33
+#: ../index.md:32
 msgid ""
 "When **Tanglet** starts, two board sizes are available, 4x4 and 5x5. Click "
 "on one of them to apply. In the drop-down list right to **Amount Of Words**, "
@@ -683,108 +685,116 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: ../index.md:35
+#: ../index.md:34
 msgid "Finally you can choose between different game modes:"
 msgstr "Anschließend können Sie zwischen verschiedenen Spielmodi wählen:"
 
 #. type: Plain text
-#: ../index.md:37
+#: ../index.md:36
 msgid "![Game modes](./figures/tanglet_change_modes.png)"
 msgstr "![Spielmodi](./figures/tanglet_change_modes.png)"
 
 #. type: Plain text
-#: ../index.md:39
+#: ../index.md:38
 msgid "The following modes are available:"
 msgstr "Die folgenden Modi sind verfügbar:"
 
 #. type: Bullet: '* '
-#: ../index.md:48
+#: ../index.md:47
 msgid "**Allotment** – Game ends after 30 guesses."
-msgstr ""
+msgstr "**Festanzahl** – Spiel endet nach 30 Versuchen."
 
 #. type: Bullet: '* '
-#: ../index.md:48
+#: ../index.md:47
 msgid "**Classic** – Counts down from 3 minutes."
-msgstr ""
+msgstr "**Klassisch** – Zählt von 3 Minuten abwärts."
 
 #. type: Bullet: '* '
-#: ../index.md:48
+#: ../index.md:47
 msgid ""
 "**Discipline** – Counts down from 30 seconds and increases on correct "
 "guesses."
 msgstr ""
+"**Disziplin** – Zählt von 30 Sekunden abwärts und erhöht bei richtigen "
+"Versuchen."
 
 #. type: Bullet: '* '
-#: ../index.md:48
+#: ../index.md:47
 msgid ""
 "**Refill** – Counts down from 30 seconds and refills on correct guesses."
 msgstr ""
+"**Zurücksetzen** – Zählt von 30 Sekunden abwärts und setzt bei richtigen "
+"Versuchen zurück."
 
 #. type: Bullet: '* '
-#: ../index.md:48
+#: ../index.md:47
 msgid ""
 "**Stamina** – Counts down from 45 seconds and pauses on correct guesses."
 msgstr ""
+"**Ausdauer** – Zählt von 45 Sekunden abwärts und pausiert bei richtigen "
+"Versuchen."
 
 #. type: Bullet: '* '
-#: ../index.md:48
+#: ../index.md:47
 msgid "**Strikeout** – Game ends after 3 incorrect guesses."
-msgstr ""
+msgstr "**Verlieren** – Spiel endet nach 3 falschen Versuchen."
 
 #. type: Bullet: '* '
-#: ../index.md:48
+#: ../index.md:47
 msgid ""
 "**Tanglet** – Counts down from 30 seconds and increases or decreases on "
 "guesses."
 msgstr ""
+"**Tanglet** – Zählt von 30 Sekunden abwärts und erhöht bei richtigen "
+"Versuchen."
 
 #. type: Bullet: '* '
-#: ../index.md:48
+#: ../index.md:47
 msgid "**Unlimited** – Game ends when all words are found."
-msgstr ""
+msgstr "**Unbegrenzt** – Spiel endet, wenn alle Wörter gefunden sind."
 
 #. type: Plain text
-#: ../index.md:50
+#: ../index.md:49
 msgid "[How to Play](./howtoplay.md)"
 msgstr "[Das Spiel spielen](./howtoplay.md)"
 
 #. type: Plain text
-#: ../index.md:52
+#: ../index.md:51
 msgid "[Configuration](./configuration.md)"
 msgstr "[Konfiguration](./configuration.md)"
 
 #. type: Plain text
-#: ../index.md:54
+#: ../index.md:53
 msgid "[Menu Bar Overview](./menubar.md)"
 msgstr "[Übersicht über die Menüleiste](./menubar.md)"
 
 #. type: Plain text
-#: ../index.md:56
+#: ../index.md:55
 msgid "[Files](./files.md)"
 msgstr "[Dateien](./files.md)"
 
 #. type: Plain text
-#: ../index.md:58
+#: ../index.md:57
 msgid "[Contributing](./contributing.md)"
 msgstr "[Mitwirken](./contributing.md)"
 
 #. type: Plain text
-#: ../index.md:59
+#: ../index.md:58
 msgid "[Credits and License](./credits.md)"
 msgstr "[Danksagungen und Lizenz](./credits.md)"
 
 #. type: Plain text
-#: ../menubar.md:5
+#: ../menubar.md:4
 msgid "# Menu Bar Overview"
 msgstr "# Übersicht über die Menüleiste"
 
 #. type: Plain text
-#: ../menubar.md:7
+#: ../menubar.md:6
 msgid "## Game menu"
 msgstr "## Spiel-Menü"
 
 #. type: Plain text
-#: ../menubar.md:10
+#: ../menubar.md:9
 #, no-wrap
 msgid ""
 "* **New Game** – Starts a new game. If a previous game is still running, you\n"
@@ -792,7 +802,7 @@ msgid ""
 msgstr "* **Neues Spiel** – Startet ein neues Spiel. Falls ein vorheriges Spiel noch läuft, werden Sie um Bestätigung gebeten, um dieses Spiel zu beenden.\n"
 
 #. type: Plain text
-#: ../menubar.md:13
+#: ../menubar.md:12
 #, no-wrap
 msgid ""
 "* **New Roll** – Starts a new game in the same mode as the currently running\n"
@@ -800,7 +810,7 @@ msgid ""
 msgstr "* **Neu würfeln** – Startet ein neues Spiel im selben Modus wie das aktuell laufende. Auch hier werden Sie um eine Bestätigung zum Beenden des aktuellen Spiels gebeten.\n"
 
 #. type: Plain text
-#: ../menubar.md:16
+#: ../menubar.md:15
 #, no-wrap
 msgid ""
 "* **Choose…** – Lets you start a game which has been saved previously. A file\n"
@@ -808,7 +818,7 @@ msgid ""
 msgstr "* **Importieren…** – Hiermit können Sie ein zuvor gespeichertes Spiel starten. Es öffnet sich ein Dateiauswahldialog, in dem Sie die gewünschte Spieldatei auswählen können.\n"
 
 #. type: Plain text
-#: ../menubar.md:21
+#: ../menubar.md:20
 #, no-wrap
 msgid ""
 "* **Share…** – Lets you save the game in a file. A file chooser dialog will be\n"
@@ -818,13 +828,13 @@ msgid ""
 msgstr ""
 
 #. type: Bullet: '* '
-#: ../menubar.md:23
+#: ../menubar.md:22
 msgid ""
 "**End** – End the game. You will asked for confirmation to stop the game."
 msgstr ""
 
 #. type: Plain text
-#: ../menubar.md:28
+#: ../menubar.md:27
 #, no-wrap
 msgid ""
 "* **Pause** – Pause the game. Probably you need this for time-limited games.\n"
@@ -834,7 +844,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: ../menubar.md:31
+#: ../menubar.md:30
 #, no-wrap
 msgid ""
 "* **Details** – Shows details about the running game, such as the board size,\n"
@@ -842,7 +852,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: ../menubar.md:35
+#: ../menubar.md:34
 #, no-wrap
 msgid ""
 "* **High Scores** – Shows the High Scores. The initial view shows the High\n"
@@ -851,29 +861,31 @@ msgid ""
 msgstr ""
 
 #. type: Bullet: '* '
-#: ../menubar.md:37
+#: ../menubar.md:36
 msgid "**Quit** – Quits the game and the application."
-msgstr ""
+msgstr "**Beenden** – Beendet das Spiel und die Anwendung."
 
 #. type: Plain text
-#: ../menubar.md:39
+#: ../menubar.md:38
 msgid "## Settings menu"
 msgstr "## Einstellungen-Menü"
 
 #. type: Plain text
-#: ../menubar.md:42
+#: ../menubar.md:41
 msgid ""
 "See [Configuration](./configuration.md) about how to use the entries of the "
 "**Settings** menu."
 msgstr ""
+"Auf der Seite [Konfiguration](./configuration.md) finden Sie Informationen "
+"darüber, wie Sie die Einträge im **Einstellungen**-Menü verwenden."
 
 #. type: Plain text
-#: ../menubar.md:44
+#: ../menubar.md:43
 msgid "## Help menu"
 msgstr "## Hilfe-Menü"
 
 #. type: Plain text
-#: ../menubar.md:47
+#: ../menubar.md:46
 #, no-wrap
 msgid ""
 "* **Controls** – Shows a brief summary of the usage. In fact, the same as\n"
@@ -881,7 +893,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: ../menubar.md:52
+#: ../menubar.md:51
 #, no-wrap
 msgid ""
 "* **User manual** – Opens this user manual in your configured standard browser.\n"
@@ -889,21 +901,27 @@ msgid ""
 "different browser or HTML viewer, you need to configure this in the settings of\n"
 "your desktop environment.\n"
 msgstr ""
+"* **Benutzerhandbuch** – Öffnet dieses Benutzerhandbuch in Ihrem konfigurierten\n"
+"Standardbrowser. Die zu öffnende Anwendung gehört nicht zum **Tanglet**-Bereich;\n"
+"wenn Sie einen anderen Browser oder HTML-Betrachter verwenden möchten, müssen Sie\n"
+"dies in den Einstellungen Ihrer Desktop-Umgebung konfigurieren.\n"
 
 #. type: Bullet: '* '
-#: ../menubar.md:54
+#: ../menubar.md:53
 msgid ""
 "**About** – Shows a brief summary, including the version number of "
 "**Tanglet**."
 msgstr ""
 
 #. type: Plain text
-#: ../menubar.md:57
+#: ../menubar.md:56
 #, no-wrap
 msgid ""
 "* **About Qt** – Shows a description of [Qt](https://www.qt.io/), which is the\n"
 "code base of **Tanglet**.\n"
 msgstr ""
+"* **Über Qt** – Zeigt eine Beschreibung von [Qt](https://www.qt.io/), welches die\n"
+"Codebasis von **Tanglet** ist.\n"
 
 #~ msgctxt "_"
 #~ msgid "translator-credits"

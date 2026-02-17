@@ -1,5 +1,4 @@
 <!-- SPDX-FileCopyrightText: 2026 Graeme Gott <graeme@gottcode.org> -->
-<!--SPDX-License-Identifier: CC-BY-SA-4.0 -->
 
 # Übersicht über die Menüleiste
 
@@ -30,27 +29,27 @@ the word density and length, the game type and a short description of that game.
 Scores for the type of the currently running game. To view the High Scores
 for the other game types, click on the vertical tab bar on the left.
 
-* **Quit** – Quits the game and the application.
+* **Beenden** – Beendet das Spiel und die Anwendung.
 
 ## Einstellungen-Menü
 
-See [Configuration](./configuration.md) about how to use the entries of the
-**Settings** menu.
+Auf der Seite [Konfiguration](./configuration.md) finden Sie Informationen
+darüber, wie Sie die Einträge im **Einstellungen**-Menü verwenden.
 
 ## Hilfe-Menü
 
 * **Controls** – Shows a brief summary of the usage. In fact, the same as
 described in the [How to Play](./howtoplay.md) page.
 
-* **User manual** – Opens this user manual in your configured standard browser.
-The opened application is out of the scope of **Tanglet**; if you like to use a
-different browser or HTML viewer, you need to configure this in the settings of
-your desktop environment.
+* **Benutzerhandbuch** – Öffnet dieses Benutzerhandbuch in Ihrem konfigurierten
+Standardbrowser. Die zu öffnende Anwendung gehört nicht zum **Tanglet**-Bereich;
+wenn Sie einen anderen Browser oder HTML-Betrachter verwenden möchten, müssen Sie
+dies in den Einstellungen Ihrer Desktop-Umgebung konfigurieren.
 
 * **About** – Shows a brief summary, including the version number of
   **Tanglet**.
 
-* **About Qt** – Shows a description of [Qt](https://www.qt.io/), which is the
-code base of **Tanglet**.
+* **Über Qt** – Zeigt eine Beschreibung von [Qt](https://www.qt.io/), welches die
+Codebasis von **Tanglet** ist.
 
 [Zurück zur Indexseite](./index.md)
