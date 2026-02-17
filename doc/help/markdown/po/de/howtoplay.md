@@ -1,5 +1,5 @@
-<!-- SPDX-FileCopyrightText: 2026 Graeme Gott <graeme@gottcode.org> --> <!--
-SPDX-License-Identifier: CC-BY-SA-4.0 -->
+<!-- SPDX-FileCopyrightText: 2026 Graeme Gott <graeme@gottcode.org> -->
+<!--SPDX-License-Identifier: CC-BY-SA-4.0 -->
 
 # Das Spiel spielen
 
