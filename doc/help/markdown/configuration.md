@@ -7,7 +7,7 @@ To configure **Tanglet**, open the **Settings** menu. You see the following
 entries:
 
 * **Show Maximum Score** – you can choose between three options for the status
-line at the bottom of the window:
+line at the bottom of the window:  
 
 ![Listed maximum scores](./figures/tanglet_toggle_maximum_score_display.png)
     
