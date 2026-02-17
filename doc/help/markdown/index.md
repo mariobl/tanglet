@@ -33,7 +33,7 @@ words with 4 letters, which actually exists, won't be accepted by **Tanglet**.
 
 Finally you can choose between different game modes:
 
-![Game modes]()./figures/tanglet_change_modes.png)
+![Game modes](./figures/tanglet_change_modes.png)
 
 The following modes are available:
 
@@ -50,4 +50,10 @@ The following modes are available:
 
 [Configuration](./configuration.md)
 
-[References](./references.md)
+[Menu Bar Overview](./menubar.md)
+
+[Files](./files.md)
+
+[Contributing](./contributing.md)
+
+[Credits and License](./credits.md)
