@@ -6,11 +6,11 @@
 ## Mouse and Keyboard Controls
 
 
-| Action         | Using the mouse | Using the keyboard |
-|----------------|-----------------|--------------------|
-| Select a word  | Click on the letters of a word.           | Type the letters of a word. |
-| Make a guess   | Click on the last selected letter.        | Press <kbd>Enter</kbd> |
-| Erase letters  | Click on an earlier selected letter.      | Press <kbd>Backspace</kbd>. |
+| Action         | Using the mouse                           | Using the keyboard                            |
+|----------------|-------------------------------------------|-----------------------------------------------|
+| Select a word  | Click on the letters of a word.           | Type the letters of a word.                   |
+| Make a guess   | Click on the last selected letter.        | Press <kbd>Enter</kbd>                        |
+| Erase letters  | Click on an earlier selected letter.      | Press <kbd>Backspace</kbd>.                   |
 | Clear the word | Click twice on the first selected letter. | Press <kbd>Ctrl</kbd> + <kbd>Backspace</kbd>. |
 
 ## Activating a Word

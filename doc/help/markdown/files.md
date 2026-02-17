@@ -23,7 +23,7 @@ A game you save using **Game** ➠ **Save…** is a text file, compressed with
 following command:
 
 ```console
-$ rename tanglet gz _savedgame_.tanglet && gunzip _savedgame_.gz
+$ rename tanglet gz savedgame.tanglet && gunzip savedgame.gz
 ```
 
 <a name="file_structure"></a>
