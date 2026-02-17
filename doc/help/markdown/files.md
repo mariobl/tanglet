@@ -46,3 +46,5 @@ Seven more lines follow:
 
 We don't recommend to change anything here. It can easily happen that the file
 becomes unusable.
+
+[Back to the index page](./index.md)

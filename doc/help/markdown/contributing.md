@@ -37,3 +37,5 @@ Although **Tanglet** is not part of any integrated desktop environment, please
 always try to follow the basic rules of well-known translation teams for your
 language, for example, those of the [KDE](https://l10n.kde.org/teams-list.php)
 or [GNOME](https://l10n.gnome.org/teams/) teams.
+
+[Back to the index page](./index.md)

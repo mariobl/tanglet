@@ -62,3 +62,5 @@ See [Configuration](./configuration.md) about how to use the entries of the
 
 * **About Qt** – Shows a description of [Qt](https://www.qt.io/), which is the
          code base of **Tanglet**.
+
+[Back to the index page](./index.md)

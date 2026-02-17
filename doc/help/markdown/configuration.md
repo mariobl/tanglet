@@ -57,3 +57,5 @@ changes will be applied after the next start of **Tanglet**.
 > `$ export LC_ALL=C && tanglet`
 >
 > This helps in such cases to switch completely to the desired language.
+
+[Back to the index page](./index.md)

@@ -13,3 +13,5 @@ For a list of contributors, see
 
 This program is licensed under the terms of the
 [GNU General Public License](https://www.gnu.org/licenses/gpl.html).
+
+[Back to the index page](./index.md)

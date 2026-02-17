@@ -76,3 +76,5 @@ words or earned points. See also
 
 Vice versa, you can choose **Game** ➠ **Choose…**. A file chooser dialog opens
 where you can navigate to the desired file and open it.
+
+[Back to the index page](./index.md)
