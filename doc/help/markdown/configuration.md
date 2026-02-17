@@ -6,17 +6,11 @@
 To configure **Tanglet**, open the **Settings** menu. You see the following
 entries:
 
-**Show Maximum Score* – you can choose between three options for the status
+* **Show Maximum Score** – you can choose between three options for the status
 line at the bottom of the window:
 
-  <!-- ==== Figure ==== -->
-  <figure>
-    <desc>Listed maximum scores</desc>
-    <media type="image" src="../figures/tanglet_toggle_maximum_score_display.png" mime="image/png" style="right">
-    </media>
-  </figure>
-  <!-- ==== End of Figure ==== -->
-
+![Listed maximum scores](./figures/tanglet_toggle_maximum_score_display.png)
+    
 * **Never** – You see word lengths and the count of words found for each length.
 
 * **End Of Game** – At the end of the game, you see the contained words per
@@ -27,13 +21,7 @@ word length and the count of words found by you.
 The visibility of the word count status bar can be toggled with
 **Show Word Counts**.
 
-  <!-- ==== Figure ==== -->
-  <figure>
-    <desc>Word count status</desc>
-    <media type="image" src="../figures/tanglet_word_counts.png" mime="image/png" style="right">
-    </media>
-  </figure>
-  <!-- ==== End of Figure ==== -->
+![Word count status](./figures/tanglet_word_counts.png)
 
 **Show Missed Words** – In addition to the list of found words on the left, an
 extra tab named **Missed** will de displayed. This tab is inactive until the
@@ -43,7 +31,7 @@ game ends.
 drop-down list and choose from the available languages. Besides that, you have
 some extra options:
 
-![Language settings](../figures/tanglet_board_language.png)
+![Language settings](./figures/tanglet_board_language.png)
 
 You can change the file paths to **Dice**, **Word List** and **Dictionary**
 by entering the file paths manually or click on the respective **Choose…**

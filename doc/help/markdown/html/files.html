@@ -2,9 +2,9 @@
 <!-- SPDX-License-Identifier: CC-BY-SA-4.0 -->
 <h1 id="files">Files</h1>
 <blockquote>
-<p>The files used by <strong>Tanglet</strong> are not intended for
-manual editing. Do not do so unless you know exactly what you are
-doing.</p>
+<p>[!WARNING]<br />
+The files used by <strong>Tanglet</strong> are not intended for manual
+editing. Do not do so unless you know exactly what you are doing.</p>
 </blockquote>
 <h2 id="user-configuration-file">User configuration file</h2>
 <p>The user configuration is located in the
@@ -18,10 +18,10 @@ game scores could be lost. Be aware of this.</p>
 <p>A game you save using <strong>Game</strong> ➠ <strong>Save…</strong>
 is a text file, compressed with <code>gzip</code>. If you are curious
 enough, you can unpack such a file using the following command:</p>
-<pre class="console"><code>$ rename tanglet gz savedgame.tanglet &amp;&amp; gunzip savedgame.gz</code></pre>
+<pre class="console"><code>$ rename tanglet gz _savedgame_.tanglet &amp;&amp; gunzip _savedgame_.gz</code></pre>
 <h3 id="file-structure">File structure</h3>
 <p>The first four lines after <code>[Game]</code> mirror the <a
-href="configuration.md">settings of the board language</a>.</p>
+href="./configuration.md">settings of the board language</a>.</p>
 <p>Seven more lines follow:</p>
 <ul>
 <li><code>Letters</code> – The letters shown in the board.
