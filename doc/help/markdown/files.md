@@ -3,7 +3,7 @@
 
 # Files
 
-> [!WARNING]  
+> [!WARNING]
 > The files used by **Tanglet** are not intended for manual editing. Do not do
 > so unless you know exactly what you are doing.
 
@@ -26,6 +26,7 @@ following command:
 $ rename tanglet gz _savedgame_.tanglet && gunzip _savedgame_.gz
 ```
 
+<a name="file_structure"></a>
 ### File structure
 
 The first four lines after `[Game]` mirror the
