@@ -46,7 +46,8 @@ Start von **Tanglet** wirksam.
 
 <!-- This is my workaround for taking the English screenshots -->
 
-> [!NOTE] > Nicht alle der übersetzten Beschriftungen kommen aus **Tanglet**
+> [!NOTE]
+> Nicht alle der übersetzten Beschriftungen kommen aus **Tanglet**
 > selbst. Da einige davon von den darunter liegenden **Qt**-Bibliotheken
 > bereitgestellt werden, kann es vorkommen, dass sie noch in der
 Systemsprache
