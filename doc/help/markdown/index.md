@@ -2,6 +2,7 @@
 
 # Tanglet user manual
 
+<!-- Replace the Wikipedia link with the localized version, if available -->
 **Tanglet** is a single player word finding game based on
 [Boggle](https://en.wikipedia.org/wiki/Boggle). The object of the game is to
 list as many words as you can before the time runs out. There are several timer

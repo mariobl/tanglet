@@ -2,7 +2,11 @@
 
 # Benutzerhandbuch für Tanglet
 
-**Tanglet** ist ein Wortsuchspiel für Einzelspieler, das auf [Boggle](https://de.wikipedia.org/wiki/Boggle) basiert. Ziel des Spiels ist es, innerhalb der vorgegebenen Zeit so viele Wörter wie möglich aufzulisten. Es gibt verschiedene Zeitmodi, die festlegen, wie viel Zeit man zu Beginn hat und ob man zusätzliche Zeit erhält, wenn man ein Wort findet.
+**Tanglet** ist ein Wortsuchspiel für Einzelspieler, das auf
+[Boggle](https://de.wikipedia.org/wiki/Boggle) basiert. Ziel des Spiels ist
+es, innerhalb der vorgegebenen Zeit so viele Wörter wie möglich
+aufzulisten. Es gibt verschiedene Zeitmodi, die festlegen, wie viel Zeit man
+zu Beginn hat und ob man zusätzliche Zeit erhält, wenn man ein Wort findet.
 
 Buchstaben können horizontal, vertikal oder diagonal in beliebiger Richtung
 zu einem Wort verbunden werden, solange sie auf dem Spielfeld nebeneinander

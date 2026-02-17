@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-02-17 14:12+0100\n"
+"POT-Creation-Date: 2026-02-17 14:30+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -538,21 +538,18 @@ msgid "# Tanglet user manual"
 msgstr ""
 
 #. type: Plain text
-#: ../index.md:10
-#, no-wrap
+#: ../index.md:11
 msgid ""
-"**Tanglet** is a single player word finding game based on\n"
-"[Boggle](https://en.wikipedia.org/wiki/Boggle). The object of the game is "
-"to\n"
+"<!-- Replace the Wikipedia link with the localized version, if available --> "
+"**Tanglet** is a single player word finding game based on "
+"[Boggle](https://en.wikipedia.org/wiki/Boggle). The object of the game is to "
 "list as many words as you can before the time runs out. There are several "
-"timer\n"
-"modes that determine how much time you start with, and if you get extra "
-"time\n"
-"when you find a word.\n"
+"timer modes that determine how much time you start with, and if you get "
+"extra time when you find a word."
 msgstr ""
 
 #. type: Plain text
-#: ../index.md:16
+#: ../index.md:17
 msgid ""
 "You can join letters horizontally, vertically, or diagonally in any "
 "direction to make a word, so as long as the letters are next to each other "
@@ -562,12 +559,12 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: ../index.md:18
+#: ../index.md:19
 msgid "## Starting the game"
 msgstr ""
 
 #. type: Plain text
-#: ../index.md:23
+#: ../index.md:24
 msgid ""
 "You can start the game using the application menu of your desktop "
 "environment.  Open the application menu and choose **Games** ➠ **Tanglet** "
@@ -576,7 +573,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: ../index.md:32
+#: ../index.md:33
 msgid ""
 "When **Tanglet** starts, two board sizes are available, 4x4 and 5x5. Click "
 "on one of them to apply. In the drop-down list right to **Amount Of Words**, "
@@ -590,34 +587,34 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: ../index.md:34
+#: ../index.md:35
 msgid "Finally you can choose between different game modes:"
 msgstr ""
 
 #. type: Plain text
-#: ../index.md:36
+#: ../index.md:37
 msgid "![Game modes](./figures/tanglet_change_modes.png)"
 msgstr ""
 
 #. type: Plain text
-#: ../index.md:38
+#: ../index.md:39
 msgid "The following modes are available:"
 msgstr ""
 
 #. type: Bullet: '* '
-#: ../index.md:47
+#: ../index.md:48
 #, markdown-text
 msgid "**Allotment** – Game ends after 30 guesses."
 msgstr ""
 
 #. type: Bullet: '* '
-#: ../index.md:47
+#: ../index.md:48
 #, markdown-text
 msgid "**Classic** – Counts down from 3 minutes."
 msgstr ""
 
 #. type: Bullet: '* '
-#: ../index.md:47
+#: ../index.md:48
 #, markdown-text
 msgid ""
 "**Discipline** – Counts down from 30 seconds and increases on correct "
@@ -625,25 +622,25 @@ msgid ""
 msgstr ""
 
 #. type: Bullet: '* '
-#: ../index.md:47
+#: ../index.md:48
 #, markdown-text
 msgid "**Refill** – Counts down from 30 seconds and refills on correct guesses."
 msgstr ""
 
 #. type: Bullet: '* '
-#: ../index.md:47
+#: ../index.md:48
 #, markdown-text
 msgid "**Stamina** – Counts down from 45 seconds and pauses on correct guesses."
 msgstr ""
 
 #. type: Bullet: '* '
-#: ../index.md:47
+#: ../index.md:48
 #, markdown-text
 msgid "**Strikeout** – Game ends after 3 incorrect guesses."
 msgstr ""
 
 #. type: Bullet: '* '
-#: ../index.md:47
+#: ../index.md:48
 #, markdown-text
 msgid ""
 "**Tanglet** – Counts down from 30 seconds and increases or decreases on "
@@ -651,38 +648,38 @@ msgid ""
 msgstr ""
 
 #. type: Bullet: '* '
-#: ../index.md:47
+#: ../index.md:48
 #, markdown-text
 msgid "**Unlimited** – Game ends when all words are found."
 msgstr ""
 
 #. type: Plain text
-#: ../index.md:49
+#: ../index.md:50
 msgid "[How to Play](./howtoplay.md)"
 msgstr ""
 
 #. type: Plain text
-#: ../index.md:51
+#: ../index.md:52
 msgid "[Configuration](./configuration.md)"
 msgstr ""
 
 #. type: Plain text
-#: ../index.md:53
+#: ../index.md:54
 msgid "[Menu Bar Overview](./menubar.md)"
 msgstr ""
 
 #. type: Plain text
-#: ../index.md:55
+#: ../index.md:56
 msgid "[Files](./files.md)"
 msgstr ""
 
 #. type: Plain text
-#: ../index.md:57
+#: ../index.md:58
 msgid "[Contributing](./contributing.md)"
 msgstr ""
 
 #. type: Plain text
-#: ../index.md:58
+#: ../index.md:59
 msgid "[Credits and License](./credits.md)"
 msgstr ""
 
