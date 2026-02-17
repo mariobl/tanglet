@@ -11,23 +11,23 @@ line at the bottom of the window:
 
 ![Listed maximum scores](./figures/tanglet_toggle_maximum_score_display.png)
     
-* **Never** – You see word lengths and the count of words found for each length.
+  * **Never** – You see word lengths and the count of words found for each length.
 
-* **End Of Game** – At the end of the game, you see the contained words per
-word length and the count of words found by you.
+  * **End Of Game** – At the end of the game, you see the contained words per
+    word length and the count of words found by you.
 
-* **Always**: The behavior described for **End Of Game** is always visible.
+  * **Always**: The behavior described for **End Of Game** is always visible.
 
 The visibility of the word count status bar can be toggled with
 **Show Word Counts**.
 
 ![Word count status](./figures/tanglet_word_counts.png)
 
-**Show Missed Words** – In addition to the list of found words on the left, an
+* **Show Missed Words** – In addition to the list of found words on the left, an
 extra tab named **Missed** will de displayed. This tab is inactive until the
 game ends.
 
-**Board Language** – You can change the board language by clicking on the
+* **Board Language** – You can change the board language by clicking on the
 drop-down list and choose from the available languages. Besides that, you have
 some extra options:
 
@@ -53,5 +53,7 @@ changes will be applied after the next start of **Tanglet**.
 > some captions are still displayed in the system language. Maybe the following
 > command is known to you for opening an application with different language
 > settings:
+>
 > `$ export LC_ALL=C &amp;&amp; tanglet`
+>
 > This helps in such cases to switch completely to the desired language.
