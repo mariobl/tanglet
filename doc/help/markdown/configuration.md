@@ -11,12 +11,12 @@ line at the bottom of the window:
 
 ![Listed maximum scores](./figures/tanglet_toggle_maximum_score_display.png)
     
-  * **Never** – You see word lengths and the count of words found for each length.
+   * **Never** – You see word lengths and the count of words found for each length.
 
-  * **End Of Game** – At the end of the game, you see the contained words per
+   * **End Of Game** – At the end of the game, you see the contained words per
     word length and the count of words found by you.
 
-  * **Always**: The behavior described for **End Of Game** is always visible.
+   * **Always**: The behavior described for **End Of Game** is always visible.
 
 The visibility of the word count status bar can be toggled with
 **Show Word Counts**.
