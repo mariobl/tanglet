@@ -1,0 +1,38 @@
+<!-- SPDX-FileCopyrightText: 2026 Graeme Gott <graeme@gottcode.org> -->
+<!-- SPDX-License-Identifier: CC-BY-SA-4.0 -->
+<h1 id="files">Files</h1>
+<blockquote>
+<p>The files used by <strong>Tanglet</strong> are not intended for
+manual editing. Do not do so unless you know exactly what you are
+doing.</p>
+</blockquote>
+<h2 id="user-configuration-file">User configuration file</h2>
+<p>The user configuration is located in the
+<em><sub>/.config/Gottcode/Tanglet.conf<em> file. The folder
+</em></sub>/.config/Gottcode/</em> is shared with other <a
+href="https://gottcode.org/">Gottcode</a> games, therefore, make sure
+you don’t mix anything up. As mentioned above, the file is not intended
+to be edited manually. However, if you actually want to edit it, your
+game scores could be lost. Be aware of this.</p>
+<h2 id="saved-games">Saved Games</h2>
+<p>A game you save using <strong>Game</strong> ➠ <strong>Save…</strong>
+is a text file, compressed with <code>gzip</code>. If you are curious
+enough, you can unpack such a file using the following command:</p>
+<pre class="console"><code>$ rename tanglet gz savedgame.tanglet &amp;&amp; gunzip savedgame.gz</code></pre>
+<h3 id="file-structure">File structure</h3>
+<p>The first four lines after <code>[Game]</code> mirror the <a
+href="configuration.md">settings of the board language</a>.</p>
+<p>Seven more lines follow:</p>
+<ul>
+<li><code>Letters</code> – The letters shown in the board.
+<!-- Really…? Or the application language settings? --></li>
+<li><code>Locale</code> – The configured Locale for the board.</li>
+<li><code>Minimum</code> – Minimum word length.</li>
+<li><code>Size</code> – Size of the board.</li>
+<li><code>TimerMode</code> – Timer mode, depending on the initially
+chosen game. <!-- What is "Version" here? --></li>
+<li><code>Version</code> – TBD.</li>
+<li><code>Words</code> – The used wordlist</li>
+</ul>
+<p>We don’t recommend to change anything here. It can easily happen that
+the file becomes unusable.</p>

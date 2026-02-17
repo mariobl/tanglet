@@ -1,0 +1,68 @@
+<!-- SPDX-FileCopyrightText: 2026 Graeme Gott <graeme@gottcode.org> -->
+<!-- SPDX-License-Identifier: CC-BY-SA-4.0 -->
+<h1 id="configuration">Configuration</h1>
+<p>To configure <strong>Tanglet</strong>, open the
+<strong>Settings</strong> menu. You see the following entries:</p>
+<p>**Show Maximum Score* – you can choose between three options for the
+status line at the bottom of the window:</p>
+<!-- ==== Figure ==== -->
+<figure>
+<desc>Listed maximum scores</desc>
+<media type="image" src="../figures/tanglet_toggle_maximum_score_display.png" mime="image/png" style="right">
+</media>
+</figure>
+<p><!-- ==== End of Figure ==== --></p>
+<ul>
+<li><p><strong>Never</strong> – You see word lengths and the count of
+words found for each length.</p></li>
+<li><p><strong>End Of Game</strong> – At the end of the game, you see
+the contained words per word length and the count of words found by
+you.</p></li>
+<li><p><strong>Always</strong>: The behavior described for <strong>End
+Of Game</strong> is always visible.</p></li>
+</ul>
+<p>The visibility of the word count status bar can be toggled with
+<strong>Show Word Counts</strong>.</p>
+<!-- ==== Figure ==== -->
+<figure>
+<desc>Word count status</desc>
+<media type="image" src="../figures/tanglet_word_counts.png" mime="image/png" style="right">
+</media>
+</figure>
+<p><!-- ==== End of Figure ==== --></p>
+<p><strong>Show Missed Words</strong> – In addition to the list of found
+words on the left, an extra tab named <strong>Missed</strong> will de
+displayed. This tab is inactive until the game ends.</p>
+<p><strong>Board Language</strong> – You can change the board language
+by clicking on the drop-down list and choose from the available
+languages. Besides that, you have some extra options:</p>
+<figure>
+<img src="../figures/tanglet_board_language.png"
+alt="Language settings" />
+<figcaption aria-hidden="true">Language settings</figcaption>
+</figure>
+<p>You can change the file paths to <strong>Dice</strong>, <strong>Word
+List</strong> and <strong>Dictionary</strong> by entering the file paths
+manually or click on the respective <strong>Choose…</strong> buttons to
+open a file chooser dialog. To set all entries back to the defaults,
+click on <strong>Defaults</strong> in the bottom left corner of the
+window. As usual, you can stop editing the preferences with the
+<strong>Cancel</strong> button, and apply the changes with
+<strong>OK</strong>. Your changes will be applied after the next start
+of <strong>Tanglet</strong>.</p>
+<p>Under <strong>Application Language</strong>, you can change the
+language of the user interface. The settings window opens with the
+button <strong>System language</strong>. Click on it to change the
+desired language from the drop-down menu. Again, your changes will be
+applied after the next start of <strong>Tanglet</strong>.</p>
+<!-- This is my workaround for taking the English screenshots -->
+<blockquote>
+<p>[!NOTE] Not all translated captions come from
+<strong>Tanglet</strong> itself. Because some of them are provided by
+the underlying <strong>Qt</strong> libraries, it might happen that some
+captions are still displayed in the system language. Maybe the following
+command is known to you for opening an application with different
+language settings:
+<code>$ export LC_ALL=C &amp;amp;&amp;amp; tanglet</code> This helps in
+such cases to switch completely to the desired language.</p>
+</blockquote>
