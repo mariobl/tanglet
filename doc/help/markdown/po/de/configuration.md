@@ -44,10 +44,20 @@ Unter **Anwendungssprache** können Sie die Sprache der Benutzeroberfläche
 Auswahlmenü zu wählen. Wiederum werden Ihre Änderungen erst beim nächsten
 Start von **Tanglet** wirksam.
 
-Nicht alle der übersetzten Beschriftungen kommen aus **Tanglet** selbst. Da
-einige davon von den darunter liegenden **Qt**-Bibliotheken bereitgestellt
-werden, kann es vorkommen, dass sie noch in der Systemsprache angezeigt
-werden. Vielleicht ist Ihnen der folgende Befehl bekannt, mit dem eine
-Anwendung mit einer abweichenden Spracheinstellung geöffnet werden kann:
+<!-- This is my workaround for taking the English screenshots -->
+
+> [!NOTE] > Nicht alle der übersetzten Beschriftungen kommen aus **Tanglet**
+> selbst. Da einige davon von den darunter liegenden **Qt**-Bibliotheken
+> bereitgestellt werden, kann es vorkommen, dass sie noch in der
+Systemsprache
+> angezeigt werden. Vielleicht ist Ihnen der folgende Befehl bekannt, mit
+dem
+> eine Anwendung mit einer abweichenden Spracheinstellung geöffnet werden
+kann:
+>
+> `$ export LC_ALL=C && tanglet`
+>
+> Dies hilft in solchen Fällen dabei, vollständig zur gewünschten Sprache zu
+wechseln.
 
 [Zurück zur Indexseite](./index.md)

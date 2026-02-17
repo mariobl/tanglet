@@ -46,6 +46,7 @@ Click on it to change the desired language from the drop-down menu. Again, your
 changes will be applied after the next start of **Tanglet**.
 
 <!-- This is my workaround for taking the English screenshots -->
+
 > [!NOTE]
 > Not all translated captions come from **Tanglet** itself. Because some of
 > them are provided by the underlying **Qt** libraries, it might happen that

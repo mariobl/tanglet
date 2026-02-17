@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-02-17 14:30+0100\n"
+"POT-Creation-Date: 2026-02-17 14:41+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -132,19 +132,24 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: ../configuration.md:59
-msgid ""
-"<!-- This is my workaround for taking the English screenshots --> > [!NOTE] "
-"> Not all translated captions come from **Tanglet** itself. Because some of "
-"> them are provided by the underlying **Qt** libraries, it might happen that "
-"> some captions are still displayed in the system language. Maybe the "
-"following > command is known to you for opening an application with "
-"different language > settings: > > `$ export LC_ALL=C && tanglet` > > This "
-"helps in such cases to switch completely to the desired language."
+#: ../configuration.md:49
+msgid "<!-- This is my workaround for taking the English screenshots -->"
 msgstr ""
 
 #. type: Plain text
-#: ../configuration.md:60 ../contributing.md:40 ../credits.md:16 ../files.md:54
+#: ../configuration.md:60
+msgid ""
+"> [!NOTE] > Not all translated captions come from **Tanglet** "
+"itself. Because some of > them are provided by the underlying **Qt** "
+"libraries, it might happen that > some captions are still displayed in the "
+"system language. Maybe the following > command is known to you for opening "
+"an application with different language > settings: > > `$ export LC_ALL=C && "
+"tanglet` > > This helps in such cases to switch completely to the desired "
+"language."
+msgstr ""
+
+#. type: Plain text
+#: ../configuration.md:61 ../contributing.md:40 ../credits.md:16 ../files.md:54
 #: ../howtoplay.md:79 ../menubar.md:57
 msgid "[Back to the index page](./index.md)"
 msgstr ""
