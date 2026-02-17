@@ -54,6 +54,6 @@ changes will be applied after the next start of **Tanglet**.
 > command is known to you for opening an application with different language
 > settings:
 >
-> `$ export LC_ALL=C &amp;&amp; tanglet`
+> `$ export LC_ALL=C && tanglet`
 >
 > This helps in such cases to switch completely to the desired language.
