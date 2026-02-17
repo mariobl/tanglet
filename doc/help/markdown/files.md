@@ -25,8 +25,7 @@ following command:
 $ rename tanglet gz savedgame.tanglet && gunzip savedgame.gz
 ```
 
-<a name="file_structure"></a>
-### File structure
+### <a name="file_structure"></a>File structure
 
 The first four lines after `[Game]` mirror the
 [settings of the board language](./configuration.md).

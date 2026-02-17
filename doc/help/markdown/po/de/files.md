@@ -24,7 +24,7 @@ eine solche Datei mit folgendem Befehl entpacken:
 
 ```console $ rename tanglet gz savedgame.tanglet && gunzip savedgame.gz ```
 
-<a name="file_structure"></a> ### Dateistruktur
+### <a name="file_structure"></a>Dateistruktur
 
 Die ersten vier Zeilen nach `[Game]` spiegeln die [Einstellungen der
 Spielfeldsprache](./configuration.md) wider.

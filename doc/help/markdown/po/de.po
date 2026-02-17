@@ -2,8 +2,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2026-02-17 13:40+0100\n"
-"PO-Revision-Date: 2026-02-17 14:09+0100\n"
+"POT-Creation-Date: 2026-02-17 14:12+0100\n"
+"PO-Revision-Date: 2026-02-17 14:12+0100\n"
 "Last-Translator: Mario Blättermann <mario.blaettermann@gmail.com>\n"
 "Language-Team: German <debian-l10n-german@lists.debian.org>\n"
 "Language: de\n"
@@ -38,12 +38,9 @@ msgstr ""
 #: ../configuration.md:10
 #, no-wrap
 msgid ""
-"* **Show Maximum Score** – you can choose between three options for the status"
-"\n"
+"* **Show Maximum Score** – you can choose between three options for the status\n"
 "line at the bottom of the window:  \n"
-msgstr ""
-"* **Maximale Punktzehl zeigen** – Sie können aus drei Optionen für die Statusz"
-"eile am unteren Rand es Fensters wählen:  \n"
+msgstr "* **Maximale Punktzehl zeigen** – Sie können aus drei Optionen für die Statuszeile am unteren Rand es Fensters wählen:  \n"
 
 #. type: Plain text
 #: ../configuration.md:12
@@ -66,12 +63,9 @@ msgstr ""
 #: ../configuration.md:17
 #, no-wrap
 msgid ""
-"   * **End Of Game** – At the end of the game, you see the contained words per"
-"\n"
+"   * **End Of Game** – At the end of the game, you see the contained words per\n"
 "    word length and the count of words found by you.\n"
-msgstr ""
-"**Spielende** – Am Ende des Spiels sehen Sie die pro Wortlänge enthaltenen Wör"
-"ter und die Anzahl der Wörter, die Soie gefunden haben.\n"
+msgstr "**Spielende** – Am Ende des Spiels sehen Sie die pro Wortlänge enthaltenen Wörter und die Anzahl der Wörter, die Soie gefunden haben.\n"
 
 #. type: Bullet: '   * '
 #: ../configuration.md:19
@@ -99,27 +93,19 @@ msgstr "![Wortanzahl-Statuszeile](./figures/tanglet_word_counts.png)"
 #: ../configuration.md:28
 #, no-wrap
 msgid ""
-"* **Show Missed Words** – In addition to the list of found words on the left, "
-"an\n"
+"* **Show Missed Words** – In addition to the list of found words on the left, an\n"
 "extra tab named **Missed** will de displayed. This tab is inactive until the\n"
 "game ends.\n"
-msgstr ""
-"**Übersehene Wörter zeigen** – Zusätzlich zur Liste der gefundenen Wörter in d"
-"er Seitenleiste wird ein Reiter namens **Übersehen** angezeigt. Dieser Reiter "
-"ist bis zum Ende des Spiels inaktiv.\n"
+msgstr "**Übersehene Wörter zeigen** – Zusätzlich zur Liste der gefundenen Wörter in der Seitenleiste wird ein Reiter namens **Übersehen** angezeigt. Dieser Reiter ist bis zum Ende des Spiels inaktiv.\n"
 
 #. type: Plain text
 #: ../configuration.md:32
 #, no-wrap
 msgid ""
 "* **Board Language** – You can change the board language by clicking on the\n"
-"drop-down list and choose from the available languages. Besides that, you have"
-"\n"
+"drop-down list and choose from the available languages. Besides that, you have\n"
 "some extra options:\n"
-msgstr ""
-"**Spielfeldsprache** – Sie können die Spielfeldsprache wählen, indem Sie auf d"
-"ie Auswahlliste klicken und aus den verfügbaren Sprachen wählen. Außerdem habe"
-"n Sie einige zusätzliche Optionen:\n"
+msgstr "**Spielfeldsprache** – Sie können die Spielfeldsprache wählen, indem Sie auf die Auswahlliste klicken und aus den verfügbaren Sprachen wählen. Außerdem haben Sie einige zusätzliche Optionen:\n"
 
 #. type: Plain text
 #: ../configuration.md:34
@@ -178,7 +164,7 @@ msgstr ""
 "Anwendung mit einer abweichenden Spracheinstellung geöffnet werden kann:"
 
 #. type: Plain text
-#: ../configuration.md:60 ../contributing.md:40 ../credits.md:16 ../files.md:55
+#: ../configuration.md:60 ../contributing.md:40 ../credits.md:16 ../files.md:54
 #: ../howtoplay.md:79 ../menubar.md:57
 msgid "[Back to the index page](./index.md)"
 msgstr "[Zurück zur Indexseite](./index.md)"
@@ -247,19 +233,12 @@ msgstr "## Übersetzungen"
 #: ../contributing.md:30
 #, no-wrap
 msgid ""
-"**Tanglet** is available in various languages. The appropriate `.ts` and `.po`"
-"\n"
+"**Tanglet** is available in various languages. The appropriate `.ts` and `.po`\n"
 "files are maintained at\n"
 "[Transifex](https://explore.transifex.com/gottcode/tanglet/). If you like to\n"
-"contribute to translations, register or sign in there, join a translation team"
-"\n"
+"contribute to translations, register or sign in there, join a translation team\n"
 "or create a new one for your desired language, if needed.\n"
-msgstr ""
-"**Tanglet** ist in verschiedenen Sprachen verfügbar. Die entsprechenden `.ts`-"
-" und `.po`-Dateien werden bei [Transifex](https://explore.transifex.com/gottco"
-"de/tanglet/) verwaltet. Wenn Sie an den Übersetzungen mitwirken möchten, regis"
-"trieren Sie sich dort oder melden Sie sich an, treten Sie einem Übersetzungste"
-"am bei oder erstellen Sie bei Bedarf ein neues für Ihre gewünschte Sprache.\n"
+msgstr "**Tanglet** ist in verschiedenen Sprachen verfügbar. Die entsprechenden `.ts`- und `.po`-Dateien werden bei [Transifex](https://explore.transifex.com/gottcode/tanglet/) verwaltet. Wenn Sie an den Übersetzungen mitwirken möchten, registrieren Sie sich dort oder melden Sie sich an, treten Sie einem Übersetzungsteam bei oder erstellen Sie bei Bedarf ein neues für Ihre gewünschte Sprache.\n"
 
 #. type: Plain text
 #: ../contributing.md:34
@@ -384,12 +363,12 @@ msgstr ""
 "```console $ rename tanglet gz savedgame.tanglet && gunzip savedgame.gz ```"
 
 #. type: Plain text
-#: ../files.md:30
-msgid "<a name=\"file_structure\"></a> ### File structure"
-msgstr "<a name=\"file_structure\"></a> ### Dateistruktur"
+#: ../files.md:29
+msgid "### <a name=\"file_structure\"></a>File structure"
+msgstr "### <a name=\"file_structure\"></a>Dateistruktur"
 
 #. type: Plain text
-#: ../files.md:33
+#: ../files.md:32
 msgid ""
 "The first four lines after `[Game]` mirror the [settings of the board "
 "language](./configuration.md)."
@@ -398,49 +377,49 @@ msgstr ""
 "Spielfeldsprache](./configuration.md) wider."
 
 #. type: Plain text
-#: ../files.md:35
+#: ../files.md:34
 msgid "Seven more lines follow:"
 msgstr "Sieben weitere Zeilen folgen:"
 
 #. type: Bullet: '* '
-#: ../files.md:37
+#: ../files.md:36
 msgid "`Letters` – The letters shown in the board."
 msgstr "`Letters` – Die auf dem Spielfeld angezeigten Buchstaben."
 
 #. type: Plain text
-#: ../files.md:40
+#: ../files.md:39
 msgid ""
 "<!-- Really…? Or the application language settings? --> * `Locale` – The "
 "configured Locale for the board."
 msgstr "* `Locale` – Die für das Spielfeld konfigurierte Locale."
 
 #. type: Bullet: '* '
-#: ../files.md:42
+#: ../files.md:41
 msgid "`Minimum` – Minimum word length."
 msgstr "`Minimum` – Minimale Wortlänge."
 
 #. type: Bullet: '* '
-#: ../files.md:44
+#: ../files.md:43
 msgid "`Size` – Size of the board."
 msgstr "`Size` – Größe des Spielfelds."
 
 #. type: Bullet: '* '
-#: ../files.md:46
+#: ../files.md:45
 msgid "`TimerMode` – Timer mode, depending on the initially chosen game."
 msgstr "`TimerMode` – Timer-Modus, abhängig vom gewählten Spiel."
 
 #. type: Plain text
-#: ../files.md:49
+#: ../files.md:48
 msgid "<!-- What is \"Version\" here? --> * `Version` – TBD."
 msgstr "* `Version` – TBD."
 
 #. type: Bullet: '* '
-#: ../files.md:51
+#: ../files.md:50
 msgid "`Words` – The used wordlist"
 msgstr "`Words` – Die verwendete Wortliste."
 
 #. type: Plain text
-#: ../files.md:54
+#: ../files.md:53
 msgid ""
 "We don't recommend to change anything here. It can easily happen that the "
 "file becomes unusable."
@@ -462,31 +441,19 @@ msgstr "## Steuerung mit Maus und Tastatur"
 #: ../howtoplay.md:14
 #, no-wrap
 msgid ""
-"| Action         | Using the mouse                           | Using the keybo"
-"ard                            |\n"
-"|----------------|-------------------------------------------|----------------"
-"-------------------------------|\n"
-"| Select a word  | Click on the letters of a word.           | Type the letter"
-"s of a word.                   |\n"
-"| Make a guess   | Click on the last selected letter.        | Press <kbd>Ente"
-"r</kbd>                        |\n"
-"| Erase letters  | Click on an earlier selected letter.      | Press <kbd>Back"
-"space</kbd>.                   |\n"
-"| Clear the word | Click twice on the first selected letter. | Press <kbd>Ctrl"
-"</kbd> + <kbd>Backspace</kbd>. |\n"
+"| Action         | Using the mouse                           | Using the keyboard                            |\n"
+"|----------------|-------------------------------------------|-----------------------------------------------|\n"
+"| Select a word  | Click on the letters of a word.           | Type the letters of a word.                   |\n"
+"| Make a guess   | Click on the last selected letter.        | Press <kbd>Enter</kbd>                        |\n"
+"| Erase letters  | Click on an earlier selected letter.      | Press <kbd>Backspace</kbd>.                   |\n"
+"| Clear the word | Click twice on the first selected letter. | Press <kbd>Ctrl</kbd> + <kbd>Backspace</kbd>. |\n"
 msgstr ""
-"| Aktion             | Mit der Maus                                         | "
-"Mit der Tastatur                                  |\n"
-"|--------------------|------------------------------------------------------|-"
-"--------------------------------------------------|\n"
-"| Wort wählen        | Auf die Buchstaben eines Worts klicken.              | "
-"Buchstaben eines Wortes eingeben.                 |\n"
-"| Versuchen          | Auf den zuletzt gewählten Buchstaben klicken.        | "
-"<kbd>Eingabetaste</kbd> drücken.                  |\n"
-"| Buchstaben löschen | Auf den zuvor gewählten Buchstaben klicken.          | "
-"<kbd>Rückschritt</kbd> drücken.                   |\n"
-"| Wort löschen       | Doppelt auf den zuerst gewählten Buchstaben klicken. | "
-"<kbd>Strg</kbd> + <kbd>Rückschritt</kbd> drücken. |\n"
+"| Aktion             | Mit der Maus                                         | Mit der Tastatur                                  |\n"
+"|--------------------|------------------------------------------------------|---------------------------------------------------|\n"
+"| Wort wählen        | Auf die Buchstaben eines Worts klicken.              | Buchstaben eines Wortes eingeben.                 |\n"
+"| Versuchen          | Auf den zuletzt gewählten Buchstaben klicken.        | <kbd>Eingabetaste</kbd> drücken.                  |\n"
+"| Buchstaben löschen | Auf den zuvor gewählten Buchstaben klicken.          | <kbd>Rückschritt</kbd> drücken.                   |\n"
+"| Wort löschen       | Doppelt auf den zuerst gewählten Buchstaben klicken. | <kbd>Strg</kbd> + <kbd>Rückschritt</kbd> drücken. |\n"
 
 #. type: Plain text
 #: ../howtoplay.md:16
@@ -578,21 +545,11 @@ msgid ""
 "       the list, a clickable book icon will be displayed, which leads you to\n"
 "       the appropriate entry in Wiktionary. -->\n"
 "When the game ends and if you have achieved a place among the top ten in the\n"
-"chosen game mode, the **High Scores** list appears. Under **Name**, your name"
-"\n"
-"(taken from your user account) is already entered, but highlighted. If you lik"
-"e\n"
-"to use a different name, or anyone else has played the game, you can change th"
-"e\n"
-"name directly, or leave it as-is. In either case, finally click on **Close**."
-"\n"
-msgstr ""
-"Wenn das Spiel beendet ist und Sie in dem gewählten Spielmodus unter den Top T"
-"en waren, erscheint die **Highscores**-Liste. Unter **Name** ist Ihr Name (aus"
-" Ihrem Benutzerkonto) bereits eingetragen und hervorgehoben. Falls Sie einen a"
-"nderen Namen verwenden möchten oder jemand anderes das Spiel gespielt hat, kön"
-"nen Sie den Namen direkt ändern oder ihn unverändert lassen. Klicken Sie ansch"
-"ließend in jedem Fall auf **Schließen**.\n"
+"chosen game mode, the **High Scores** list appears. Under **Name**, your name\n"
+"(taken from your user account) is already entered, but highlighted. If you like\n"
+"to use a different name, or anyone else has played the game, you can change the\n"
+"name directly, or leave it as-is. In either case, finally click on **Close**.\n"
+msgstr "Wenn das Spiel beendet ist und Sie in dem gewählten Spielmodus unter den Top Ten waren, erscheint die **Highscores**-Liste. Unter **Name** ist Ihr Name (aus Ihrem Benutzerkonto) bereits eingetragen und hervorgehoben. Falls Sie einen anderen Namen verwenden möchten oder jemand anderes das Spiel gespielt hat, können Sie den Namen direkt ändern oder ihn unverändert lassen. Klicken Sie anschließend in jedem Fall auf **Schließen**.\n"
 
 #. type: Plain text
 #: ../howtoplay.md:57
@@ -678,16 +635,10 @@ msgstr "# Benutzerhandbuch für Tanglet"
 msgid ""
 "**Tanglet** is a single player word finding game based on\n"
 "[Boggle](https://en.wikipedia.org/wiki/Boggle). The object of the game is to\n"
-"list as many words as you can before the time runs out. There are several time"
-"r\n"
+"list as many words as you can before the time runs out. There are several timer\n"
 "modes that determine how much time you start with, and if you get extra time\n"
 "when you find a word.\n"
-msgstr ""
-"**Tanglet** ist ein Wortsuchspiel für Einzelspieler, das auf [Boggle](https://"
-"de.wikipedia.org/wiki/Boggle) basiert. Ziel des Spiels ist es, innerhalb der v"
-"orgegebenen Zeit so viele Wörter wie möglich aufzulisten. Es gibt verschiedene"
-" Zeitmodi, die festlegen, wie viel Zeit man zu Beginn hat und ob man zusätzlic"
-"he Zeit erhält, wenn man ein Wort findet.\n"
+msgstr "**Tanglet** ist ein Wortsuchspiel für Einzelspieler, das auf [Boggle](https://de.wikipedia.org/wiki/Boggle) basiert. Ziel des Spiels ist es, innerhalb der vorgegebenen Zeit so viele Wörter wie möglich aufzulisten. Es gibt verschiedene Zeitmodi, die festlegen, wie viel Zeit man zu Beginn hat und ob man zusätzliche Zeit erhält, wenn man ein Wort findet.\n"
 
 #. type: Plain text
 #: ../index.md:16
@@ -848,9 +799,7 @@ msgstr "## Spiel-Menü"
 msgid ""
 "* **New Game** – Starts a new game. If a previous game is still running, you\n"
 "will asked for confirmation to stop that game.\n"
-msgstr ""
-"* **Neues Spiel** – Startet ein neues Spiel. Falls ein vorheriges Spiel noch l"
-"äuft, werden Sie um Bestätigung gebeten, um dieses Spiel zu beenden.\n"
+msgstr "* **Neues Spiel** – Startet ein neues Spiel. Falls ein vorheriges Spiel noch läuft, werden Sie um Bestätigung gebeten, um dieses Spiel zu beenden.\n"
 
 #. type: Plain text
 #: ../menubar.md:12
@@ -858,30 +807,21 @@ msgstr ""
 msgid ""
 "* **New Roll** – Starts a new game in the same mode as the currently running\n"
 "one. Again, you will asked for confirmation to stop that game.\n"
-msgstr ""
-"* **Neu würfeln** – Startet ein neues Spiel im selben Modus wie das aktuell la"
-"ufende. Auch hier werden Sie um eine Bestätigung zum Beenden des aktuellen Spi"
-"els gebeten.\n"
+msgstr "* **Neu würfeln** – Startet ein neues Spiel im selben Modus wie das aktuell laufende. Auch hier werden Sie um eine Bestätigung zum Beenden des aktuellen Spiels gebeten.\n"
 
 #. type: Plain text
 #: ../menubar.md:15
 #, no-wrap
 msgid ""
-"* **Choose…** – Lets you start a game which has been saved previously. A file"
-"\n"
-"chooser dialog will be opened where you can search for the desired game file."
-"\n"
-msgstr ""
-"* **Importieren…** – Hiermit können Sie ein zuvor gespeichertes Spiel starten."
-" Es öffnet sich ein Dateiauswahldialog, in dem Sie die gewünschte Spieldatei a"
-"uswählen können.\n"
+"* **Choose…** – Lets you start a game which has been saved previously. A file\n"
+"chooser dialog will be opened where you can search for the desired game file.\n"
+msgstr "* **Importieren…** – Hiermit können Sie ein zuvor gespeichertes Spiel starten. Es öffnet sich ein Dateiauswahldialog, in dem Sie die gewünschte Spieldatei auswählen können.\n"
 
 #. type: Plain text
 #: ../menubar.md:20
 #, no-wrap
 msgid ""
-"* **Share…** – Lets you save the game in a file. A file chooser dialog will be"
-"\n"
+"* **Share…** – Lets you save the game in a file. A file chooser dialog will be\n"
 "opened where you can choose for a file name and directory. Although it is\n"
 "possible, keep the **File type** entry unchanged. We don't recommend to save\n"
 "files with another extension than `.tanglet`.\n"
@@ -899,8 +839,7 @@ msgstr ""
 msgid ""
 "* **Pause** – Pause the game. Probably you need this for time-limited games.\n"
 "When pausing a game, the whole window content disappears. After clicking\n"
-"anywhere in the window, the pause ends and the content comes back. Note, also"
-"\n"
+"anywhere in the window, the pause ends and the content comes back. Note, also\n"
 "when the window losts the focus, the window content disappears.\n"
 msgstr ""
 
@@ -908,10 +847,8 @@ msgstr ""
 #: ../menubar.md:30
 #, no-wrap
 msgid ""
-"* **Details** – Shows details about the running game, such as the board size,"
-"\n"
-"the word density and length, the game type and a short description of that gam"
-"e.\n"
+"* **Details** – Shows details about the running game, such as the board size,\n"
+"the word density and length, the game type and a short description of that game.\n"
 msgstr ""
 
 #. type: Plain text
@@ -959,20 +896,14 @@ msgstr ""
 #: ../menubar.md:51
 #, no-wrap
 msgid ""
-"* **User manual** – Opens this user manual in your configured standard browser"
-".\n"
-"The opened application is out of the scope of **Tanglet**; if you like to use "
-"a\n"
-"different browser or HTML viewer, you need to configure this in the settings o"
-"f\n"
+"* **User manual** – Opens this user manual in your configured standard browser.\n"
+"The opened application is out of the scope of **Tanglet**; if you like to use a\n"
+"different browser or HTML viewer, you need to configure this in the settings of\n"
 "your desktop environment.\n"
 msgstr ""
-"* **Benutzerhandbuch** – Öffnet dieses Benutzerhandbuch in Ihrem konfigurierte"
-"n\n"
-"Standardbrowser. Die zu öffnende Anwendung gehört nicht zum **Tanglet**-Bereic"
-"h;\n"
-"wenn Sie einen anderen Browser oder HTML-Betrachter verwenden möchten, müssen "
-"Sie\n"
+"* **Benutzerhandbuch** – Öffnet dieses Benutzerhandbuch in Ihrem konfigurierten\n"
+"Standardbrowser. Die zu öffnende Anwendung gehört nicht zum **Tanglet**-Bereich;\n"
+"wenn Sie einen anderen Browser oder HTML-Betrachter verwenden möchten, müssen Sie\n"
 "dies in den Einstellungen Ihrer Desktop-Umgebung konfigurieren.\n"
 
 #. type: Bullet: '* '
@@ -986,12 +917,10 @@ msgstr ""
 #: ../menubar.md:56
 #, no-wrap
 msgid ""
-"* **About Qt** – Shows a description of [Qt](https://www.qt.io/), which is the"
-"\n"
+"* **About Qt** – Shows a description of [Qt](https://www.qt.io/), which is the\n"
 "code base of **Tanglet**.\n"
 msgstr ""
-"* **Über Qt** – Zeigt eine Beschreibung von [Qt](https://www.qt.io/), welches "
-"die\n"
+"* **Über Qt** – Zeigt eine Beschreibung von [Qt](https://www.qt.io/), welches die\n"
 "Codebasis von **Tanglet** ist.\n"
 
 #~ msgctxt "_"

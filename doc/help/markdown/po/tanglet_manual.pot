@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-02-17 13:40+0100\n"
+"POT-Creation-Date: 2026-02-17 14:12+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -144,7 +144,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: ../configuration.md:60 ../contributing.md:40 ../credits.md:16 ../files.md:55
+#: ../configuration.md:60 ../contributing.md:40 ../credits.md:16 ../files.md:54
 #: ../howtoplay.md:79 ../menubar.md:57
 msgid "[Back to the index page](./index.md)"
 msgstr ""
@@ -306,66 +306,66 @@ msgid "```console $ rename tanglet gz savedgame.tanglet && gunzip savedgame.gz `
 msgstr ""
 
 #. type: Plain text
-#: ../files.md:30
-msgid "<a name=\"file_structure\"></a> ### File structure"
+#: ../files.md:29
+msgid "### <a name=\"file_structure\"></a>File structure"
 msgstr ""
 
 #. type: Plain text
-#: ../files.md:33
+#: ../files.md:32
 msgid ""
 "The first four lines after `[Game]` mirror the [settings of the board "
 "language](./configuration.md)."
 msgstr ""
 
 #. type: Plain text
-#: ../files.md:35
+#: ../files.md:34
 msgid "Seven more lines follow:"
 msgstr ""
 
 #. type: Bullet: '* '
-#: ../files.md:37
+#: ../files.md:36
 #, markdown-text
 msgid "`Letters` – The letters shown in the board."
 msgstr ""
 
 #. type: Plain text
-#: ../files.md:40
+#: ../files.md:39
 msgid ""
 "<!-- Really…? Or the application language settings? --> * `Locale` – The "
 "configured Locale for the board."
 msgstr ""
 
 #. type: Bullet: '* '
-#: ../files.md:42
+#: ../files.md:41
 #, markdown-text
 msgid "`Minimum` – Minimum word length."
 msgstr ""
 
 #. type: Bullet: '* '
-#: ../files.md:44
+#: ../files.md:43
 #, markdown-text
 msgid "`Size` – Size of the board."
 msgstr ""
 
 #. type: Bullet: '* '
-#: ../files.md:46
+#: ../files.md:45
 #, markdown-text
 msgid "`TimerMode` – Timer mode, depending on the initially chosen game."
 msgstr ""
 
 #. type: Plain text
-#: ../files.md:49
+#: ../files.md:48
 msgid "<!-- What is \"Version\" here? --> * `Version` – TBD."
 msgstr ""
 
 #. type: Bullet: '* '
-#: ../files.md:51
+#: ../files.md:50
 #, markdown-text
 msgid "`Words` – The used wordlist"
 msgstr ""
 
 #. type: Plain text
-#: ../files.md:54
+#: ../files.md:53
 msgid ""
 "We don't recommend to change anything here. It can easily happen that the "
 "file becomes unusable."
